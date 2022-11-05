@@ -1,4 +1,4 @@
-# saintbuilder
+# ?
 DAO with the focus of providing support to beings with extended purpose
 
 Entities doing great things for the world should be identified, acknowledged and supported. Selfless acts often occur no regard for their own wealth.  This is a good thing, however, our capatilistic society often requires significant resources to accomplish great things.  This Decentralized Autonomous Organization will assist the saints of the world in achieving their purpose.  Ths will help nature.
